@@ -1,0 +1,20 @@
+emaill = jannatflowersweb@gmail.com
+pass    = jannatflowersweb@gmail.com
+
+
+email varification
+
+Host:
+sandbox.smtp.mailtrap.io
+Port:
+25 or 465 or 587 or 2525
+Username:
+491d045bdb09c4
+Password:
+7d9b574a5800a8
+Auth:
+PLAIN, LOGIN and CRAM-MD5
+TLS:
+Optional (STARTTLS on all ports)
+
+

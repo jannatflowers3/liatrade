@@ -1,0 +1,8 @@
+php artisan make:middlewarephp artisan make:middleware IsAdmin
+php artisan make:controller Admin/AdminController
+
+3. php artisan make:model Categories -mcr
+or
+php artisan make:migration create_catagories_table
+4.php artisan make:controller Admin/CategoryController
+5. php artisan make:model Category
